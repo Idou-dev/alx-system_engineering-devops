@@ -1,2 +1,2 @@
 #!/bin/bash
-shown --from=guillaume betty hello
+shown --from=betty guillaume hello
